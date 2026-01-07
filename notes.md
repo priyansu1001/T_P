@@ -11,4 +11,4 @@ types
 - relative  - location with respect to current location
             - ex - if you in /pkp then .bashrc's relative loc is `.`
 
-
+# does this change get reflected?
